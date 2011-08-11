@@ -22,6 +22,8 @@ formatter modules.
 
 =pkg Data::Format::Pretty::PHP
 
+=pkg Data::Format::Pretty::PHPSerialization
+
 =pkg Data::Format::Pretty::YAML
 
 =cut
