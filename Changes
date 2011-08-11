@@ -1,5 +1,10 @@
 Revision history for Task-Data-Format-Pretty
 
+0.02    2011-08-11
+
+        Add ::Perl formatter.
+
+
 0.01    2011-08-11
 
         First release.
