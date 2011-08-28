@@ -24,6 +24,8 @@ formatter modules.
 
 =pkg Data::Format::Pretty::PHPSerialization
 
+=pkg Data::Format::Pretty::Ruby
+
 =pkg Data::Format::Pretty::YAML
 
 =cut
