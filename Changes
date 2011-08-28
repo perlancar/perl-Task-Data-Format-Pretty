@@ -1,5 +1,10 @@
 Revision history for Task-Data-Format-Pretty
 
+0.04    2011-08-28
+
+        Add ::Ruby formatter.
+
+
 0.03    2011-08-11
 
         Add ::PHPSerialization formatter.
